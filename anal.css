@@ -1,0 +1,24 @@
+html{
+	background-color: #242B33;
+	background-image: url(file:///C:/Users/FrontEnd/Downloads/Rectangle.svg);
+}
+
+h1{
+	color: #D4C17F;
+	text-align: center;
+	margin-top: 250px;
+}
+nav{
+	color: white;
+}
+
+.leftheader{
+margin: 10px 0px 0px 200px;	
+}
+
+.rightheader{
+	margin: -50px 100px 0px 750px;
+	display: flex;
+	direction: row;
+	justify-content: space-between;
+}
